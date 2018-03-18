@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="sess_0il770k8nvhnsbdcukgbefac42" type="PLAIN_TEXT" />
       <mapping pattern="Interactiv4_LlekoApi.xml" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />

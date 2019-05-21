@@ -15,5 +15,6 @@
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.csv</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>

@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Interactiv4_LlekoApi.xml" type="PLAIN_TEXT" />
       <mapping pattern="sess_0il770k8nvhnsbdcukgbefac42" type="PLAIN_TEXT" />
+      <mapping pattern=".env.valet" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ExpiringSubscriptionsphp" type="PLAIN_TEXT" />

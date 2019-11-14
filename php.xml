@@ -106,11 +106,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/valet-php@7.2/7.2.22_2/bin/php-cgi" php_cli="/usr/local/Cellar/valet-php@7.2/7.2.22_2/bin/php" path_separator=":" version="7.2.22">
-          <additional_php_ini>/usr/local/etc/valet-php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/valet-php/7.2/conf.d/z-performance.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/valet-php/7.2/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/valet-php@7.1/7.1.32_2/bin/php-cgi" php_cli="/usr/local/Cellar/valet-php@7.1/7.1.32_2/bin/php" path_separator=":" version="7.1.32">
+          <additional_php_ini>/usr/local/etc/valet-php/7.1/conf.d/ext-opcache.ini, /usr/local/etc/valet-php/7.1/conf.d/z-performance.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/valet-php/7.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/valet-php@7.2/7.2.22_2/share/valet-php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/valet-php@7.1/7.1.32_2/share/valet-php@7.1/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.7.2">
@@ -126,6 +126,7 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="apc" />
             <extension name="apcu" />
             <extension name="bcmath" />
             <extension name="bz2" />
@@ -170,7 +171,6 @@
             <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
-            <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="sysvmsg" />

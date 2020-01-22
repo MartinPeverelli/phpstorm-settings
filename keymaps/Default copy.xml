@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="f14" />
   </action>
   <action id="BaseOnThisFunction" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseContent" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />

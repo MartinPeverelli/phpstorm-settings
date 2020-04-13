@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="widget.xml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -19,5 +20,6 @@
     <mask>system.xml</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
+    <mask>widget.xml</mask>
   </component>
 </application>

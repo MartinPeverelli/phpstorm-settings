@@ -1,7 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="pristineConfig" value="false" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-700bf171:171885bd97c:-8000" />
     <option name="version" value="5.2.0" />
   </component>

@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="extension_attributes.xml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -22,5 +21,6 @@
     <mask>*.xml</mask>
     <mask>widget.xml</mask>
     <mask>extension_attributes.xml</mask>
+    <mask>*form.xml</mask>
   </component>
 </application>

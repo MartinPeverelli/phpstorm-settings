@@ -24,5 +24,6 @@
     <mask>widget.xml</mask>
     <mask>extension_attributes.xml</mask>
     <mask>*form.xml</mask>
+    <mask>!.csv</mask>
   </component>
 </application>

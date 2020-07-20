@@ -18,10 +18,10 @@
     <mask>default.xml</mask>
     <mask>system.xml</mask>
     <mask>*.json</mask>
-    <mask>*.xml</mask>
     <mask>widget.xml</mask>
     <mask>extension_attributes.xml</mask>
     <mask>*form.xml</mask>
     <mask>!.csv</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
